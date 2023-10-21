@@ -1,5 +1,5 @@
 # Kernel
- A rudimentary linux-like kernel, built from scratch
+ A rudimentary linux-like kernel, built from scratch by Chirag Rastogi
 
 ## What this is
 First of all, this **UNFINISHED** 
